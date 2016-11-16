@@ -270,7 +270,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 > *XIV. cikk*  
 
-(1) Magyarországra idegen népesség nem telepíthet ő be. Idegen állampolgár - ide nem értve az Európai Gazdasági Térség országainak állampolgárait - Magyarország területén az Országgy űlés által megalkotott törvény szerinti eljárásban, a magyar hatóságok által egyedileg elbírált kérelme alapján élhet.  
+(1) Magyarországra idegen népesség nem telepíthető be. Idegen állampolgár - ide nem értve az Európai Gazdasági Térség országainak állampolgárait - Magyarország területén az Országgyűlés által megalkotott törvény szerinti eljárásban, a magyar hatóságok által egyedileg elbírált kérelme alapján élhet.  
 (2) Magyar állampolgár Magyarország területéről nem utasítható ki, és külföldről bármikor hazatérhet. Magyarország területén tartózkodó külföldit csak törvényes határozat alapján lehet kiutasítani. Tilos a csoportos kiutasítás.  
 (3) Senki nem utasítható ki olyan államba, vagy nem adható ki olyan államnak, ahol az a veszély fenyegeti, hogy halálra ítélik, kínozzák vagy más embertelen bánásmódnak, büntetésnek vetik alá.  
 (4) Magyarország - ha sem származási országuk, sem más ország nem nyújt védelmet - kérelemre menedékjogot biztosít azoknak a nem magyar állampolgároknak, akiket hazájukban vagy a szokásos tartózkodási helyük szerinti országban faji, nemzeti hovatartozásuk, meghatározott társadalmi csoporthoz tartozásuk, vallási, illetve politikai meggyőződésük miatt üldöznek, vagy az üldöztetéstől való félelmük megalapozott.  
